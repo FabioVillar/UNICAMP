@@ -12,7 +12,7 @@ Estrutura de pastas:
 * Fábio Santos Villar
 
 ## Tarefa 1 sobre APIs de acesso
-[Link para o notebook da Tarefa 1](https://github.com/FabioVillar/UNICAMP/blob/main/MC536/lab01/notebook/lab01-api.ipynb)
+[Link para o notebook da Tarefa 1](notebook/lab01-api.ipynb)
 
 ## Tarefa 2 sobre Engenharia Reversa
-[](/images/lab01_tarefa1.1.png)
+![](images/lab01_tarefa1.1.png)
