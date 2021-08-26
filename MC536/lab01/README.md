@@ -1,3 +1,13 @@
+# Lab01 - API Acesso
+Estrutura de pastas:
+```
+├── README.md  <- arquivo apresentando a tarefa
+│
+├── images     <- arquivo de imagem da tarefa
+│
+└── notebook   <- arquivos do notebook
+```
+
 # Aluno
 * Fábio Santos Villar
 
