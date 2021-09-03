@@ -8,8 +8,7 @@ Estrutura de pastas:
 ```
 
 # Aluno
-* Fábio Santos Villar
-* RA: 234135
+* 234135 : Fábio Santos Villar
 
 ## Tarefa sobre Consultas SQL no NHANES
 [Link para a tarefa](notebook/lab03-nhanes.ipynb)
