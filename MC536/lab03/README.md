@@ -12,4 +12,4 @@ Estrutura de pastas:
 * RA: 234135
 
 ## Tarefa sobre Consultas SQL no NHANES
-()[]
+[Link para a tarefa](notebook/lab03-nhanes.ipynb)
