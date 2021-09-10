@@ -11,4 +11,4 @@ Estrutura de pastas:
 * 234135 : Fábio Santos Villar
 
 ## Tarefa sobre SQL Avançado
-[Link para a tarefa]()
+[Link para a tarefa](notebook/lab04-sql-advanced.ipynb)
