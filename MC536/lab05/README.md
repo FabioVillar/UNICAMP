@@ -24,10 +24,14 @@ Escreva em Cypher uma consulta que retorne os marcadores da categoria Serviços,
 ### Resolução
 
 ```
-MATCH (c:Categoria{id:"Serviços"})
+MATCH (a:Categoria{id:"Serviços"})
 MATCH (b:Categoria)
-WHERE (b)-[:Superior]->(c)
-MATCH (a:Marcador) 
-WHERE (a)-[:Pertence]->(b) OR (a)-[:Pertence]->(c)
-RETURN a
+WHERE (b)-[:Superior]->(a)
+MATCH (b2:Categoria)
+WHERE (b2)-[:Superior]->(a)
+MATCH (c:Categoria)
+WHERE (c)-[:Superior]-(b2)-[:Superior]->(a)
+MATCH (m:Marcador)
+WHERE (m)-[:Pertence]->(a) OR (m)-[:Pertence]->(b) OR (m)-[:Pertence]->(c)
+RETURN m
 ```
