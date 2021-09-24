@@ -17,9 +17,9 @@ O artigo aborda as dificuldades de se desenvolver tecnologias que usem inteligê
 	Existem diversos fatores dificultantes para o desenvolvimento mencionado, tais como o alto custo de se obter e utilizar datasets nas máquinas, além de testes em ambientes ao ar livre serem propensos a problemas circunstanciais e imprevisibilidades. Uma solução para esses fatores é de se utilizar simuladores das situações desejadas em que a máquina a ser produzida irá ser utilizada, pois o teste das IAs nas simulações são extremamente produtivos, visto que são ambientes controlados e com menos possibilidades de erros.
 	A ThreeDWorld vai além dessa solução, e a aprimora: visto que usar e transitar entre muitas plataformas diferentes é um problema a mais para os pesquisadores, ela resolveu centralizar diversos simuladores diferentes em sua plataforma, que abrangem as mais variadas situações possíveis, com o propósito de tornar o trabalho deles mais simples e eficiente.
 ## Perguntas de pesquisa/análises
-*Como a IA irá interagir com certos objetos?
-*Como determinados sons irão influenciar a IA?
-*Qual o funcionamento da máquina em certo ambiente?
-*Como a máquina iria funcionar depois de muito tempo inserida nesse ambiente?
-*Qual o funcionamento de determinado protótipo de robô? 
+* Como a IA irá interagir com certos objetos?
+* Como determinados sons irão influenciar a IA?
+* Qual o funcionamento da máquina em certo ambiente?
+* Como a máquina iria funcionar depois de muito tempo inserida nesse ambiente?
+* Qual o funcionamento de determinado protótipo de robô? 
 ## Trabalhos relacionados
