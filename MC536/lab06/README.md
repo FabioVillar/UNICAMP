@@ -8,8 +8,8 @@ Estrutura de pastas:
 # Análise do Artigo "ThreeDWorld: A Platform for Interactive Multi-Modal Physical Simulation"
 campo | valor
 ------|------
-referência|
-link| [link](https://openreview.net/pdf?id=db1InWAwW2T)
+referência|[referência](https://openreview.net/pdf?id=db1InWAwW2T)
+link| [link](https://openreview.net/forum?id=db1InWAwW2T)
 dataset|[dataset](https://github.com/threedworld-mit/tdw)
 formato|json
 ## Resumo
