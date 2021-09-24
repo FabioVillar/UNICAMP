@@ -23,3 +23,4 @@ O artigo aborda as dificuldades de se desenvolver tecnologias que usem inteligê
 * Como a máquina iria funcionar depois de muito tempo inserida nesse ambiente?
 * Qual o funcionamento de determinado protótipo de robô? 
 ## Trabalhos relacionados
+Além da ThreeDWorld, existem outras plataformas que possuem o objetivo de simular situações do “mundo real” com propósitos científicos, tais como: Habitat, que simula agentes de IA;  iGibson e Sapien, que simula ambientes para testes de física, dentre outras funcionalidades; iTHOR, que possui diversos modelos de espaços de cômodos como cozinhas, quartos e mais. 
