@@ -8,7 +8,7 @@ Estrutura de pastas:
 # Aluno
 * 234135: Fábio Santos Villar
 ## Modelo Lógico do Banco de Dados de Grafos
-[]()
+[](/image/modelo_preliminar.png)
 ## Perguntas de Pesquisa/análise
 * Qual a formação mais usada por certa seleção?
 * Qual o índice de vitória de certa seleção com uma certa jogadora?
