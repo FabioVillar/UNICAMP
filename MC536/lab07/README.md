@@ -3,7 +3,7 @@ Estrutura de pastas:
 ```
 ├── README.md  <- arquivo apresentando a tarefa
 │
-└── image     <- arquivos de imagem usados na tarefa
+└── image     <- arquivo de imagem usado na tarefa
 ```
 # Aluno
 * 234135: Fábio Santos Villar
@@ -14,4 +14,4 @@ Estrutura de pastas:
 * Qual o índice de vitória de certa seleção com uma certa jogadora?
 * Qual a relação formação/gols feitos de certa seleção?
 * Qual a seleção com melhor ataque da Copa?
-* Qual a relação de cartão/desarmes de certa jogadora?
+* Qual a relação de desarmes/partida de certa seleção?
