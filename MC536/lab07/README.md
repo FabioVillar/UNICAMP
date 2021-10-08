@@ -3,7 +3,7 @@ Estrutura de pastas:
 ```
 ├── README.md  <- arquivo apresentando a tarefa
 │
-└── images     <- arquivos de imagem usados na tarefa
+└── image     <- arquivos de imagem usados na tarefa
 ```
 # Aluno
 * 234135: Fábio Santos Villar
